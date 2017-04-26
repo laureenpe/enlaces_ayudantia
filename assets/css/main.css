@@ -1,0 +1,27 @@
+/* ABOUT ME STYLES */
+.box{
+	width: 100%;
+	height: 110vh;
+	background-color: #F9A91A;
+	padding-top: 7rem;
+}
+
+#title, .title{
+	font-family: 'Raleway', sans-serif;
+	font-weight: 800;
+	color: #333434;
+	text-align: center;
+}
+p{
+	color: #333434;
+}
+a{
+	color: #FFF;
+}
+.botoncillo{
+	text-align: center;
+}
+span{
+	color: #FFF;
+	font-size: 20px;
+}
